@@ -1,0 +1,8 @@
+
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®À“üşÿÿÿÿ8ÍôèšÑ,
+osquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.BlockingQueue'.(÷ÙÑÿÿÿÿÿ8ÍôèšÑ,
+usquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Àø’ìúÿÿÿÿ8ÍôèšÑ,
+«%squid:RedundantThrowsDeclarationCheckM"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ8ÍôèšÑ,
+Bsquid:S1640"Convert this Map to an EnumMap.(®À“üşÿÿÿÿ8ÍôèšÑ,
+{
+squid:S1357"YReduce the total number of break and continue statements in this loop to use at most one.(üŠ‘îùÿÿÿÿ8ÍôèšÑ,
